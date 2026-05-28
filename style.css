@@ -1,0 +1,214 @@
+h1, li, li a{
+    font-family: "Roboto", sans-serif;
+}
+p{
+    font-family: "ALK Life", sans-serif;
+}
+body{
+    margin-left: 104px;
+    margin-top: 59px;
+
+}
+header h1{
+    display: inline;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-right: 50px;
+}
+li{
+    margin-right: 50px;
+    display: inline;
+    margin-top: 20px;
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: #8D81FF;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.maincontent .calendar p{
+    font-weight: 400;
+    font-size: 24px;
+        color:#84FF81;
+
+}
+.maincontent .calendar{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+
+
+}
+.maincontent h2{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: #8D81FF;
+}
+.maincontent h3{
+font-weight: 700;
+font-weight: bold;
+font-size: 20px;
+line-height: 100%;
+color: #4E6FAE;
+}
+
+.maincontent img{
+
+    width: 447px;
+    height: 280px;
+    margin-top: 10px;
+    vertical-align: top;
+}
+.maincontent .text-1, .text-2{
+    width: 700px;
+    vertical-align: top;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #4E6FAE;
+    margin-left: 40px;
+}
+.maincontent .text-3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #4E6FAE;
+}
+
+.fblogo{
+    width: 50px;
+    height: 50px;
+}
+.border{
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 50px;
+    width: 2px;
+    background-color: #5012D5;
+}
+.ytlogo{
+    width: 48px;
+    height: 50px;
+}
+footer{
+    margin-top: 40px;
+    display: flex;
+}
+.mainImage{
+
+    margin-top: 20px;
+    width: 1,052px;
+    height: 462px;
+}
+.newsContent{
+    margin-top: 100px;
+}
+.newsContent h2{
+display: inline;
+font-weight: 700;
+font-style: bold;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #4E6FAE;
+}
+.newsContent h3{
+padding-right: 200px;
+display: inline;    
+font-weight: 400;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #4E6FAE;
+
+
+}
+.newsContent .div_image{
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.newsContent .div_image img{
+    vertical-align: top;
+    display: inline-block;
+    height: 77px;
+    width: 77px;
+    margin-left: 20px;
+}
+.newsContent .div_image h4{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 20px;
+    color: #7E8898;
+}
+.newsContent .div_image p{
+    vertical-align: top;
+    width: 400px;
+    display: inline-block;
+    width: 300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 20px;
+    color: #7E8898;
+}
+
+.contact{
+    margin-top: 50px;
+    height: 735px;
+    width: 1521px;
+    background-color:#E7E7E7 ;
+    margin-left: -104px;
+
+
+}
+
+.contact_info h1{
+font-weight: 700;
+font-weight: bold;
+size: 36px;
+letter-spacing: 0%;
+color: #4E6FAE;
+}
+
+.contact_info p{
+    display: inline-block;
+}
+.contact_info{
+    vertical-align: top;
+   display: inline-block;
+    width: 356;
+    padding: 60px;
+}
+
+.contact_img{
+    display: inline-block;
+}
+.contact_img img{
+    height: 500px;
+    width: 800px;
+    margin: 100px;
+}
